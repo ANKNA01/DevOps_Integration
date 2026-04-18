@@ -1,0 +1,6 @@
+{
+  "Name": "DevOps_Integration",
+  "ProjectType": "Process",
+  "Description": "DevOps_Integration",
+  "MainFile": "Main.xaml"
+}
